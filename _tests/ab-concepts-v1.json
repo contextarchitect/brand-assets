@@ -1,0 +1,75 @@
+{
+  "_note": "Public concept metadata for A/B test v1. Task IDs intentionally omitted from this client-facing copy.",
+  "concepts": {
+    "1": {
+      "category": "product_placement",
+      "title": "Product on bathroom counter (morning light)",
+      "aspect": "4:5"
+    },
+    "2": {
+      "category": "product_placement",
+      "title": "Flat-lay with natural ingredients",
+      "aspect": "1:1"
+    },
+    "3": {
+      "category": "product_scale",
+      "title": "Woman holding bottle in bathroom",
+      "aspect": "4:5"
+    },
+    "4": {
+      "category": "product_scale",
+      "title": "Man's hand picking up bottle from gym bag",
+      "aspect": "3:2"
+    },
+    "5": {
+      "category": "models_interacting",
+      "title": "Woman applying cream in front of mirror",
+      "aspect": "4:5"
+    },
+    "6": {
+      "category": "models_interacting",
+      "title": "Two friends in kitchen passing bottle",
+      "aspect": "3:2"
+    },
+    "7": {
+      "category": "infographic_simple",
+      "title": "Three-step routine infographic",
+      "aspect": "4:5"
+    },
+    "8": {
+      "category": "infographic_simple",
+      "title": "Before/after comparison",
+      "aspect": "16:9"
+    },
+    "9": {
+      "category": "animation",
+      "title": "Flat-vector illustration of routine",
+      "aspect": "4:5"
+    },
+    "10": {
+      "category": "animation",
+      "title": "Isometric 3D cartoon scene",
+      "aspect": "1:1"
+    },
+    "11": {
+      "category": "ugc",
+      "title": "Mirror-selfie holding product",
+      "aspect": "4:5"
+    },
+    "12": {
+      "category": "ugc",
+      "title": "UGC unboxing on desk",
+      "aspect": "4:5"
+    },
+    "13": {
+      "category": "infographic_detailed",
+      "title": "Text-heavy educational infographic",
+      "aspect": "4:5"
+    },
+    "14": {
+      "category": "infographic_detailed",
+      "title": "Data dashboard with charts & tables",
+      "aspect": "4:5"
+    }
+  }
+}
